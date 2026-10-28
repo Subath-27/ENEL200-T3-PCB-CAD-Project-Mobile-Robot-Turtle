@@ -24,15 +24,6 @@ The purpose of this project was to design and implement a mobile turtle robot th
 - Arduino C++, Arduino IDE 2.3.4
 - Libraries: `HCSR04.h`, `Arduino.h`, plus the university-provided `UcTTDcMotor.h` and `UcMotorPWM.h` for motor control
 
-## Results
-- Responded to Logo commands delivered through the serial interface
-- Carried a pen and drew on the surface it moved over
-- Drove forward in reasonably straight lines
-- Rotated on the spot in increments of 10 degrees or less
-- Gave visual feedback on its actions
-- Ran from a portable battery pack with no tether
-
-Grade: 4.7 / 6 (78%)
 
 ## How to build and upload
 1. Open the `.ino` file in Arduino IDE.
