@@ -18,7 +18,6 @@ The purpose of this project was to design and implement a mobile turtle robot th
 - Motors: 2 × DC gearbox (TT) motors, 200 RPM (3-6 V DC)
 - Sensors: ultrasonic sensor, active buzzer
 - Power: 6 × AA alkaline batteries (9 V pack) with a rocker on/off switch
-- Custom PCB: designed in KiCad, see `docs/` for schematic and layout
 
 ## Software
 - Arduino C++, Arduino IDE 2.3.4
