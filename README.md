@@ -12,6 +12,7 @@ The purpose of this project was to design and implement a mobile turtle robot th
 - Ultrasonic sensor detects obstructions greater than 0 cm and up to 30 cm away
 - Active buzzer sounds whenever an obstruction is detected
 - Custom PCB shield designed in KiCad to drive the two DC motors and connect the buzzer and ultrasonic sensor
+- Enclosure features a battery holder to hold the battery pack, slots to insert the two motors, and snap-hooks to secure     the Arduino
 
 ## Hardware
 - Board: Arduino Uno
