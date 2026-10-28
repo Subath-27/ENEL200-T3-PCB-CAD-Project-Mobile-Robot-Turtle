@@ -16,7 +16,8 @@ The purpose of this project was to design and implement a mobile turtle robot th
 ## Hardware
 - Board: Arduino Uno
 - Motors: 2 × DC gearbox (TT) motors, 200 RPM (3-6 V DC)
-- Sensors: ultrasonic sensor, active buzzer
+- Sensors: ultrasonic sensor
+- Buzzer: passive
 - Power: 6 × AA alkaline batteries (9 V pack) with a rocker on/off switch
 
 ## Software
